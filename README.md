@@ -19,7 +19,7 @@ Forge your Windows experience — switch between **Dark Mode** and **Light Mode*
 - Windows 10 / 11
 - PowerShell
 - Run as Administrator
-> **Note:** The Lock Screen feature may work on certain Windows 10/11 editions (Home or Pro) depending on system policies and user permissions. Some devices may restrict lock screen customization.
+> **Note:** The Lock Screen feature may work on certain Windows 10/11 editions (Home or Pro) depending on system policies and user permissions. Some devices may restrict lock screen customization. When supported, the lock screen image will match the selected wallpaper.
 
 ## 📦 Installation
 Clone the repository:  git clone https://github.com/Thekasrmc/ThemeForge.git or download as ZIP.
