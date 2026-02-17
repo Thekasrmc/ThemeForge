@@ -46,11 +46,11 @@ Replace the images inside:
 ### Dark Mode
 - Rename your image to:
   `ROG G15.png`
-- Must be `.png`
+- Must be `.png` or `.jpg`
 ### Light Mode
 - Rename your image to:
   `ROGDARE.jpg`
-- Must be `.jpg`
+- Must be `.png` or `.jpg`
 
 Example structure:
 
