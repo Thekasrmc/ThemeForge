@@ -43,11 +43,11 @@ Replace the images inside:
 \ThemeForge\wallpaper
 ### Dark Mode
 - Rename your image to:
-  `ROG G15.png`
+  `Drak.png`
 - Must be `.png` or `.jpg`
 ### Light Mode
 - Rename your image to:
-  `ROGDARE.jpg`
+  `Light.jpg`
 - Must be `.png` or `.jpg`
 
 Example structure:
@@ -55,8 +55,8 @@ Example structure:
 ```
 ThemeForge
 ├── wallpaper
-│   ├── ROG G15.png
-│   └── ROGDARE.jpg
+│   ├── Dark.png
+│   └── Light.jpg
 ├── sounds
 │   └── nalak.wav
 ├── theme-switcher.ps1
