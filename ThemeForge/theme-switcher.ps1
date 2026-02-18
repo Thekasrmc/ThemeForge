@@ -1,5 +1,3 @@
-﻿
-
 # --- Check for Administrator Privileges ---
 if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
     Write-Host "`n[!] This script needs to be run as Administrator." -ForegroundColor Red
@@ -196,3 +194,4 @@ Write-Host (E "🎉" "Done!") -ForegroundColor Cyan
 Write-Host (E "⏳" "This window will close in 10 seconds...") -ForegroundColor Yellow
 Start-Sleep -Seconds 10
 exit
+
