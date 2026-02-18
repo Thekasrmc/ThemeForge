@@ -41,17 +41,15 @@ Press Enter and wait for the process to complete.
 
 ✅ Done!
 ## 🖼️ Use Your Own Wallpaper
-Replace the images inside:
-\ThemeForge\wallpaper
+To customize your wallpapers, replace the images inside the folder:
+ThemeForge\wallpaper
 ### Dark Mode
-- Rename your image to:
-  `Drak.png`
-- Must be `.png` or `.jpg`
+Rename your image to: Dark.png
+Supported formats: `.png` or `.jpg`
 ### Light Mode
-- Rename your image to:
-  `Light.png`
-- Must be `.png` or `.jpg`
-### Don't forget to delete old photos.
+Rename your image to: Light.png
+Supported formats: `.png `or `.jpg`
+### Make sure to delete or replace any old images to avoid conflicts. ‼️
 Example structure:
 
 ```
