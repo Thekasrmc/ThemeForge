@@ -23,6 +23,7 @@ Forge your Windows experience — switch between **Dark Mode** and **Light Mode*
 
 ## 📦 Installation
 Clone the repository:  git clone https://github.com/Thekasrmc/ThemeForge.git or download as ZIP.
+ZIP: https://github.com/Thekasrmc/ThemeForge/releases
 ### Then:
 1. Navigate into the folder.
 2. Double-click `theme-switcher.bat`
