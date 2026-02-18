@@ -5,7 +5,7 @@
 # 🎨 ThemeForge
 
 Forge your Windows experience — switch between Dark Mode and Light Mode, change wallpapers, set lock screen images, and reload Windows Explorer automatically using PowerShell.
->**Note**The tool can run on both The and non-activated Windows installations.
+>**Note:** The tool can run on both The and non-activated Windows installations.
 
 
 ## 🚀 Features
