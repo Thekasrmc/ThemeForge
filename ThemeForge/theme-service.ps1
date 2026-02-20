@@ -237,15 +237,6 @@ if (Test-Path $soundPath) {
     Start-Sleep -Seconds 0.5
 }
 
-Write-Host "\n========================================" -ForegroundColor Cyan
-Write-Host (E "✅" "All steps completed!") -ForegroundColor Green
-Write-Host (E "🎉" "Done!") -ForegroundColor Cyan
-Write-Host (E "‼️" "Please restart your computer") -ForegroundColor Yellow
-Start-Sleep -Seconds 10
-exit
-
-
-
 # --- [7/7] Watermark removal (user choice only) ---
 Write-Host "\n[7/7] Watermark removal (user choice only)..." -ForegroundColor Yellow
 if ($doWatermark) {
@@ -265,3 +256,13 @@ if ($doWatermark) {
 } else {
     Write-Host "[i] Watermark removal not selected. Skipping this step." -ForegroundColor Gray
 }
+
+Write-Host "\n========================================" -ForegroundColor Cyan
+Write-Host (E "✅" "All steps completed!") -ForegroundColor Green
+Write-Host (E "🎉" "Done!") -ForegroundColor Cyan
+Write-Host (E "‼️" "Please restart your computer") -ForegroundColor Yellow
+Start-Sleep -Seconds 10
+exit
+
+
+
