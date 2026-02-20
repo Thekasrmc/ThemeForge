@@ -66,7 +66,7 @@ ThemeForge
 │   ├── Dark.png
 │   └── Light.jpg
 ├── sounds
-│   └── nalak.wav
+│   └── Notification.wav
 ├── theme-service.ps1
 └── theme-switcher.bat
 ```
